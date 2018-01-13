@@ -17,9 +17,3 @@
 .idea
 log
 *.gem
-
-# Ignore sqlite dbs
-has_secure_attribute_test
-has_secure_attribute_development
-has_secure_attribute_production
-
